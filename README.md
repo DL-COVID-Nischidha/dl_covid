@@ -3,9 +3,9 @@ DL for COVID detection.
 
 # Covid_CXNET
 
-Paper : https://arxiv.org/abs/2006.13807
-Github : https://github.com/armiro/COVID-CXNet
-Dataset : covid-cxr-dataset
+- Paper : https://arxiv.org/abs/2006.13807
+- Github : https://github.com/armiro/COVID-CXNet
+- Dataset : covid-cxr-dataset
 
 # Workflow :
 ### 0.Dataset_preperation.ipynb: (Changes needs to be done)
