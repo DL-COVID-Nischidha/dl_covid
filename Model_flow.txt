@@ -32,6 +32,5 @@ DL for COVID detection.
     - 1. Model
     - 2. Testing images
     
-### Model_flow.ipynb: Reference notebook
       
 
