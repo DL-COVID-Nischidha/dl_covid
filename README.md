@@ -86,31 +86,6 @@ The proposed model development procedure is visualization-oriented as it is the 
 Source codes and the pre- trained network weights to help accelerate further research studies.
 https://drive.google.com/drive/folders/1BH8KQQKVQSDgOQiIQPIonUUL9UXzzWMu?usp=sharing
 
-
-## WORK DONE :
-**Apeksha**
-- Literary survey for the project
-- Found the model for transfer learning
-- Ran and tested the base model
-- Segmentation of images
-- Interpretation Colab notebook to run online
-
-**Yogya**
-- Literary survey for the project
-- Got the dataset and the pre trained weights by contacting the paper authors
-- Fine tuning and training the model
-- Python script codes to run offline
-
-**Anish**
-- Understanding the existing model and worked on Augmentation
-- Automating the Dataset reading
-- Preparing the Report
-
-**Maha**
-- Understanding the existing model
-- Preparing the dataset
-- Preparing the ReadmeFile
-
 ## Learning Outcomes:
 - End to end development of software to address real world problems on using open source consolidated data.
 - Practical application of transfer learning, image preprocessing and neural network optimization for multi-class classification.
@@ -120,7 +95,7 @@ https://drive.google.com/drive/folders/1BH8KQQKVQSDgOQiIQPIonUUL9UXzzWMu?usp=sha
 ## Challenges Faced:
 - Limited availability of clean, reliable data.
 - Circumscribed by the processing ability of commodity hardware that had been used for classification and analysis.
-- Lack of knowledge on medical imaging and virus detection with radiology.
+- Limited knowledge on medical imaging and virus detection with radiology.
 
 
 
